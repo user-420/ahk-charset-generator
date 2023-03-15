@@ -22,7 +22,6 @@ The basics of using it:
 
 \
 \
-\
 How the charsets are layed out:
 - Charsets go in the "charsets" list
 - Each charset is a list with strings for what you want to replace the normal characters
