@@ -31,7 +31,7 @@ How the charsets are layed out:
     (if you have the list of numbers and symbols then the name goes after it)
     
   example (this would just do normal characters):
-`["a",(...)"z", "A"(...)"Z", ["1",(...),"9","0", "!",(...),")", "charset_name_here"]`
+  `["a",(...)"z", "A"(...)"Z", ["1",(...),"9","0", "!",(...),")", "charset_name_here"]`
 \
 \
 \
