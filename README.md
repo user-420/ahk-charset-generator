@@ -19,6 +19,8 @@ The basics of using it:
 - Run it (python3) and then pick your charset and the key to pause the script
 - Run the .ahk file that gets generated (same dir as the generator)
 - Congrats, now you can type in 𝔠𝔬𝔬𝔩 and 𝓌𝒶𝒸𝓀𝓎 unicode characters.
+
+\
 \
 \
 How the charsets are layed out:
