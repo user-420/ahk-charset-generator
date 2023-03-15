@@ -1,4 +1,4 @@
-##Generates and autohotkey script that replaces what you type with characters from a charset.
+## Generates and autohotkey script that replaces what you type with characters from a charset.
 
 ###### This code is still WIP
 
