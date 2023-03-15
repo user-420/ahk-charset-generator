@@ -1,8 +1,6 @@
-# ahk-charset-generator
+##Generates and autohotkey script that replaces what you type with characters from a charset.
 
 ###### This code is still WIP
-
-##Generates and autohotkey script that replaces what you type with characters from a charset.
 
 This code is terrible, but it works, this is mainly just for me to use for myself.
 
