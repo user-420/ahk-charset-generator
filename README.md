@@ -30,7 +30,7 @@ How the charsets are layed out:
   - then either a list with 1-9 then 0, then their shifted versions (!@#, etc) OR the name of the charset
     (if you have the list of numbers and symbols then the name goes after it)
     
-example (this would just do normal characters):
+  example (this would just do normal characters):
 `["a",(...)"z", "A"(...)"Z", ["1",(...),"9","0", "!",(...),")", "charset_name_here"]`
 \
 \
