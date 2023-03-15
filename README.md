@@ -7,15 +7,18 @@ This code is terrible, but it works, this is mainly just for me to use for mysel
 \
 \
 \
+\
+\
+\
 ... so if you're still reading i'm gonna assume you want to use it
 
 You'll need **Python 3** and **AHK** (I'm on version 1.1, unsure if syntax changes in 2)
 
 The basics of using it:
-Grab `generator.py` from the repo
-Run it (python3) and then pick your charset and the key to pause the script
-Run the .ahk file that gets generated (same dir as the generator)
-Congrats, now you can type in 𝔠𝔬𝔬𝔩 and 𝓌𝒶𝒸𝓀𝓎 unicode characters.
+- Grab `generator.py` from the repo
+- Run it (python3) and then pick your charset and the key to pause the script
+- Run the .ahk file that gets generated (same dir as the generator)
+- Congrats, now you can type in 𝔠𝔬𝔬𝔩 and 𝓌𝒶𝒸𝓀𝓎 unicode characters.
 \
 \
 How the charsets are layed out:
@@ -32,8 +35,8 @@ example (this would just do normal characters):
 \
 \
 features coming eventually:
-  - dynamic listing of all the charsets (thats why the name is in there)
-  - might move charsets to a file outside of the python script itself
-  - redo how the charsets are layed out, the way its done now is very... bad
-  - support for more characters, although I'm not sure there's many more that have counterparts in unicode that would match sets of letters/nums
-  - something to have each letter use a random charset
+  - [] dynamic listing of all the charsets (thats why the name is in there)
+  - [] might move charsets to a file outside of the python script itself
+  - [] redo how the charsets are layed out, the way its done now is very... bad
+  - [] support for more characters, although I'm not sure there's many more that have counterparts in unicode that would match sets of letters/nums
+  - [] something to have each letter use a random charset
