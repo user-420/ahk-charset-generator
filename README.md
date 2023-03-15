@@ -36,8 +36,8 @@ How the charsets are layed out:
 \
 \
 features coming eventually:
-  - [] dynamic listing of all the charsets (thats why the name is in there)
-  - [] might move charsets to a file outside of the python script itself
-  - [] redo how the charsets are layed out, the way its done now is very... bad
-  - [] support for more characters, although I'm not sure there's many more that have counterparts in unicode that would match sets of letters/nums
-  - [] something to have each letter use a random charset
+  - [ ] dynamic listing of all the charsets (thats why the name is in there)
+  - [ ] might move charsets to a file outside of the python script itself
+  - [ ] redo how the charsets are layed out, the way its done now is very... bad
+  - [ ] support for more characters, although I'm not sure there's many more that have counterparts in unicode that would match sets of letters/nums
+  - [ ] something to have each letter use a random charset
